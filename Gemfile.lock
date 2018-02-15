@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.1.4)
+    activesupport (5.1.5)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (~> 0.7)
       minitest (~> 5.1)
@@ -51,7 +51,7 @@ GEM
       sprockets (>= 3.3, < 4.1.beta)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
-    jekyll-material-theme (0.5.0)
+    jekyll-material-theme (0.5.2)
       jekyll (~> 3.5)
       jekyll-assets (~> 3.0)
       jekyll-feed (~> 0.9)
